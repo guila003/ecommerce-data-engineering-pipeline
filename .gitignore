@@ -1,1 +1,3 @@
 data/raw/
+*.pbix
+config/db_config.yaml
