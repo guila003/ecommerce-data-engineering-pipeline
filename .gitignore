@@ -1,3 +1,7 @@
 data/raw/
 *.pbix
 config/db_config.yaml
+.env
+__pycache__/
+*.pyc
+logs/
